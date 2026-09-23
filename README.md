@@ -5,6 +5,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Engenharia+da+Computa%C3%A7%C3%A3o+%40+UNIRUY;Process+Intelligence+%26+AI+no+Grupo+Rede%2B;Head+of+Blockchain+na+Quantum+Cert;Google+Student+Ambassador+2026" alt="Typing SVG" /></a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milenacalasans/)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-7CF5E4?style=for-the-badge&logo=githubpages&logoColor=black)](https://imilena.github.io)
 ![Visitas](https://komarev.com/ghpvc/?username=iMilena&color=6C63FF&style=for-the-badge&label=VISITAS)
 
 </div>
