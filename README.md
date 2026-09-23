@@ -67,10 +67,10 @@ Navegação autônoma de robô até um ponto-alvo usando ROS2.
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=iMilena&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iMilena&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" />
+  <img src="https://raw.githubusercontent.com/iMilena/iMilena/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" />
   <br>
-  <img src="https://streak-stats.demolab.com?user=iMilena&theme=tokyonight&hide_border=true&locale=pt_BR" />
+  <img src="https://raw.githubusercontent.com/iMilena/iMilena/main/profile-summary-card-output/tokyonight/3-stats.svg" width="49%" />
+  <img src="https://raw.githubusercontent.com/iMilena/iMilena/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" />
 </div>
 
 ## 🐍 Contribuições
